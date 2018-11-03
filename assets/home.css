@@ -1,0 +1,10 @@
+body { font-family: "Roboto", sans-serif; margin: 0.0px 0.0px 0.0px 0.0px  }
+bg { z-index: 0; position: fixed }
+.homenav { position: absolute; left: calc(50% - 200.0px); bottom: 10.0vh }
+.homenav ul { list-style-type: none; padding-left: 0.0px; min-width: 150.0px }
+.homenav ul li { text-align: right }
+.homenav ul li a { font-size: 40.0px; text-decoration: none; color: hsl(0.0, 0.0%, 100.0%) }
+.homenav ul li a:hover { font-weight: 700.0 }
+@media screen and (max-width: 768.0px) { bg { display: none }
+.homenav { left: auto; right: 10.0vw; position: fixed }
+ }
