@@ -1,4 +1,4 @@
-body { font-family: "Roboto", sans-serif; margin: 0.0px 0.0px 0.0px 0.0px ; font-weight: 400.0 }
+body { font-family: "Roboto", sans-serif; margin: 0.0px 0.0px 0.0px 0.0px  }
 bg { z-index: 0; position: fixed }
 .homenav { position: absolute; left: calc(50% - 200.0px); bottom: 10.0vh }
 .homenav ul { list-style-type: none; padding-left: 0.0px; min-width: 150.0px }
